@@ -27,11 +27,9 @@ public class FibSequence {
 			return fibonnaciMap.get(n);
 		}
 		else if(n == 0){
-			fibonnaciMap.put(0, 0);
 			return 0;
 		}
 		else if (n == 1) {
-			fibonnaciMap.put(1, 1);
 			return 1;
 		}
 		else if (n > 1) {
