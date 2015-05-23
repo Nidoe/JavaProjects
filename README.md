@@ -1,4 +1,2 @@
 # JavaProjects
-A set of practice projects to various programming questions.
-
-More descriptions will be added at a future time
+Miscellaneous Java projects, including large assignments/Labs, Algorithms, and some solved programming problems
